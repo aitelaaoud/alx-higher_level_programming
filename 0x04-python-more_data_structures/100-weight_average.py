@@ -19,4 +19,3 @@ if __name__ == '__main__':
     result = weight_average(my_list)
     print("Average: {:0.2f}".format(result))
     print("--")
-
